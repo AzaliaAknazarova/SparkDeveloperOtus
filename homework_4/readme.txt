@@ -1,5 +1,5 @@
 1. скачать папку airports
-2. скопировать скрипт в бобер путь /Users/azaliaaknazarova/Downloads/airports
+2. скопировать скрипт (script.sql) в бобер путь /Users/azaliaaknazarova/Downloads/airports
 (пункт "создаем внешнюю таблицу") изменить на тот, куда скачена директория п1
 3. в location (ddl обычных таблиц формата orc)
 если есть папка user/hive/warehouse можно не ставить, или прописать значение из hive-site.xml
