@@ -2,6 +2,6 @@
 <project version="4">
   <component name="ScalaCompilerConfiguration">
     <option name="separateProdTestSources" value="true" />
-    <profile name="sbt 1" modules="SparkDeveloper,SparkDeveloper.homework_2,SparkDeveloper.homework_2.homework_2,SparkDeveloper.homework_2.homework_2.main,SparkDeveloper.homework_2.homework_2.test,SparkDeveloper.homework_2.homework_3,SparkDeveloper.homework_2.homework_3.main,SparkDeveloper.homework_2.homework_3.test,SparkDeveloper.homework_2.main,SparkDeveloper.homework_2.test,SparkDeveloper.main,SparkDeveloper.test" />
+    <profile name="sbt 1" modules="SparkDeveloper,SparkDeveloper.homework_2,SparkDeveloper.homework_2.homework_2,SparkDeveloper.homework_2.homework_2.main,SparkDeveloper.homework_2.homework_2.test,SparkDeveloper.homework_2.homework_3,SparkDeveloper.homework_2.homework_3.main,SparkDeveloper.homework_2.homework_3.test,SparkDeveloper.homework_2.homework_5,SparkDeveloper.homework_2.homework_5.main,SparkDeveloper.homework_2.homework_5.test,SparkDeveloper.homework_2.main,SparkDeveloper.homework_2.test,SparkDeveloper.homework_4,SparkDeveloper.homework_4.main,SparkDeveloper.homework_4.test,SparkDeveloper.homework_5,SparkDeveloper.homework_5.main,SparkDeveloper.homework_5.test,SparkDeveloper.main,SparkDeveloper.test" />
   </component>
 </project>
