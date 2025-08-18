@@ -9,6 +9,7 @@ lazy val homework_6 = project.in(file("homework_6"))
 lazy val homework_7 = project.in(file("homework_7"))
 lazy val homework_8 = project.in(file("homework_8"))
 lazy val homework_9 = project.in(file("homework_9"))
+lazy val homework_project = project.in(file("homework_project"))
 
 lazy val root = (project in file("."))
   .aggregate(homework_2)
@@ -19,6 +20,7 @@ lazy val root = (project in file("."))
   .aggregate(homework_7)
   .aggregate(homework_8)
   .aggregate(homework_9)
+  .aggregate(homework_project)
   .settings(
     name := "SparkDeveloper"
   )
